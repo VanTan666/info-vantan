@@ -1,0 +1,50 @@
+body, h1, h2, h3, h4 {
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+.page {
+    height: 100vh;
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    padding: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: rgb(56, 56, 56);
+}
+
+
+
+.avatar {
+    display: block;
+
+}
+
+.avatar {
+    width: 128px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-radius: 40px;
+}
+.avatar-ds {
+    width: 64px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+}
+
+
+
+.title {
+    text-align: center;
+
+}
