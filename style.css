@@ -52,6 +52,10 @@ a:hover {
     text-align: center;
 }
 
+.title-h3:hover {
+    color: red;
+}
+
 .text {
     display: inline-block;
     margin: 0 auto;
