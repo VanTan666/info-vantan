@@ -1,15 +1,13 @@
 body, h1, h2, h3, h4 {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
-    background-color: black;
+    background-color: #191919;
 }
 
 *, ::before, ::after {
     box-sizing: border-box;
 }
 
-.page {
-}
 
 a {
     text-decoration: none;
@@ -75,10 +73,28 @@ a:hover {
 }
 
 
+.white {
+    color: white;
+}
+
+.icon {
+    border-radius: 50%;
+    margin: auto 0px auto 14px;
+}
 
 
+.article {
+    width: 70%;
+    margin: 0 auto;
+    border: 3px solid #B17461;
+    height: 50%;
+    margin-bottom: 30px;
+    padding: 15px;
+}
 
-
+.m {
+    margin-bottom: 10px;
+}
 
 /* Button */
 
