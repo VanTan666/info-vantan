@@ -50,6 +50,15 @@ a:hover {
     text-align: center;
 }
 
+.dad {
+    color: white;
+    text-align: center;
+}
+
+.dad:hover {
+    color: red;
+}
+
 .title-h3:hover {
     color: red;
 }
